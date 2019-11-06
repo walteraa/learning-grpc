@@ -6,6 +6,6 @@
     "@grpc/grpc-js": "^0.1.0",
     "@grpc/proto-loader": "^0.1.0",
     "grpc": "^1.11.3",
-    "mongoose": "^4.4.11"
+    "mongoose": "^5.7.8"
   }
 }
